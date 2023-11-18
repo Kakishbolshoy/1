@@ -44,4 +44,6 @@ int main()
 ![да](файлы.png)
 ### 6.это и есть отчет
 
-
+### 7. сделайте commit и push
+![да](commit.png)
+![да](push.png)
